@@ -36,6 +36,8 @@
 
 .match {
   background-color: rgb(69, 214, 24);
+  font-size: 2em;
+  cursor: default;
 }
 
 
